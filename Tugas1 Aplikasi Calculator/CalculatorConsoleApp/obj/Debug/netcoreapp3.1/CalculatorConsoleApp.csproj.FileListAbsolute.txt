@@ -1,0 +1,13 @@
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.exe
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.deps.json
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.json
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.dev.json
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfo.cs
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+D:\New folder\CalculatorWindowsFormsApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.genruntimeconfig.cache
